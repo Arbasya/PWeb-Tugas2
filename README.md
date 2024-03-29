@@ -13,7 +13,7 @@ Tugas 2 ini dibuat menggunakan
 - Perkalian dari dua bilangan yang berada di tabel dan dioutputkan di javascript alert 
 - Terdapat function waktu untuk mengambil nilai variabel waktu
 - Menyesuaikan nilai variabel waktu dengan nilai variabel greeting menggunakan if else
--mengoutputkan kembali hasil dari variabel greeting melalui Javascript alert
+- mengoutputkan kembali hasil dari variabel greeting melalui Javascript alert
 
 ## Preview
 
