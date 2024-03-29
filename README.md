@@ -39,7 +39,7 @@ const d = new Date();
   let s = tambah0(d.getSeconds());
   let time = h + ":" + m + ":" + s;
 ```
-- Proses pengambilan nilai dari variabel jam (h), menit dan detik.
+- Proses pengambilan nilai dari variabel jam (h), menit (m) dan detik (s).
 ```sh
 let day;
   switch (new Date().getDay()) {
